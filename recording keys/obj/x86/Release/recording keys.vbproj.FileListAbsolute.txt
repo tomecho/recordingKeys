@@ -1,0 +1,9 @@
+C:\Users\Tom\documents\visual studio 2010\Projects\recording keys\recording keys\obj\x86\Release\recording_keys.Form1.resources
+C:\Users\Tom\documents\visual studio 2010\Projects\recording keys\recording keys\obj\x86\Release\recording_keys.Resources.resources
+C:\Users\Tom\documents\visual studio 2010\Projects\recording keys\recording keys\bin\Release\recordingkeys.exe
+C:\Users\Tom\documents\visual studio 2010\Projects\recording keys\recording keys\bin\Release\recordingkeys.pdb
+C:\Users\Tom\documents\visual studio 2010\Projects\recording keys\recording keys\bin\Release\recordingkeys.xml
+C:\Users\Tom\documents\visual studio 2010\Projects\recording keys\recording keys\obj\x86\Release\recordingkeys.exe
+C:\Users\Tom\documents\visual studio 2010\Projects\recording keys\recording keys\obj\x86\Release\recordingkeys.xml
+C:\Users\Tom\documents\visual studio 2010\Projects\recording keys\recording keys\obj\x86\Release\recordingkeys.pdb
+C:\Users\Tom\Documents\Visual Studio 2010\Projects\recording keys\recording keys\obj\x86\Release\recording keys.vbproj.GenerateResource.Cache
